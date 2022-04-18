@@ -57,5 +57,5 @@ module.exports = {
     }),
   ],
   mode: "development",
-  devtool: "eval",
+  devtool: "source-map",
 };
